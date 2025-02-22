@@ -11,7 +11,7 @@ export default function Hero() {
                 secondary: { text: "View Our Services", url: "#services" },
             }}
             image={{
-                src: "/images/sumup-z6NLKuIFkqE-unsplash.jpg",
+                src: "https://edsswgandlbwjzjrxtnq.supabase.co/storage/v1/object/public/assets/images/sumup-z6NLKuIFkqE-unsplash.jpg",
                 alt: "B47 Labs - Custom Software Solutions",
             }}
         ></Hero1>
